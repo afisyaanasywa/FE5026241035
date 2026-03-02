@@ -1,0 +1,57 @@
+        body {
+            background-color: #ffe6ff;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            margin-right: 80px;
+            margin-left: 80px;
+        }
+
+        p {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        #bikinjaditengah {
+            text-align: center;
+            font-size: x-small;
+        }
+
+        .bikinjaditengah2 {
+            text-align: center;
+            font-size: small;
+        }
+
+        .judulberita {
+            text-align: center;
+            font-size: 30px;
+            color: #ff66ff;
+        }
+
+        .judulgambar {
+            text-align: center;
+            font-size: small;
+        }
+
+        .footerbold {
+            font-weight: bold;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        a:link {
+            text-decoration: none;
+            color: #ff66ff;
+        }
+
+        a:hover {
+            text-decoration: none;
+            color: #ff66ff;
+        }
+
+        a:visited {
+            text-decoration: none;
+            color: #ff66ff;
+        }
+
+        .formatgambar {
+            border-radius: 15px;
+            box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.2);
+        }
